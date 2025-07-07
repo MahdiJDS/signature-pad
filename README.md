@@ -9,7 +9,7 @@ Draw your signature, clear it, or **download it instantly as a PNG image**!
 
 ## 🖼️ Preview
 
-![Signature Pad Screenshot](./ScreenShot%20(2).png)  
+![Signature Pad Screenshot](./Screenshot-signature.png)  
 *Simple and smooth drawing experience with one-click download*
 
 ---
